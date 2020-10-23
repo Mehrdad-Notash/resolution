@@ -1,11 +1,8 @@
 # Super resolution example
 
-![source](https://user-images.githubusercontent.com/70960259/96958666-171c9380-1539-11eb-9bf9-609d76942d13.jpg)
+![change](https://user-images.githubusercontent.com/70960259/96963979-9a8fb200-1544-11eb-854e-e595c1c8ae18.jpg)
 
-# source image
-
-![recon](https://user-images.githubusercontent.com/70960259/96958671-17b52a00-1539-11eb-8e02-ff5af49a84e0.jpg)
-# reconstructed image
+# source image to  reconstructed image
 
 #make data with numpy and execute pix2pix for pyramid model 
 
